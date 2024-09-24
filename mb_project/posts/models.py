@@ -6,5 +6,4 @@ class Post(models.Model):
 
 
 	def __str__(self):
-
-		self.text[:50]
+		return self.text[:50]
