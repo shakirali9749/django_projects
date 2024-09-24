@@ -2,5 +2,6 @@
 __pycache__/
 db.sqlite3
 /ecommerce/media/
+/mb_project/media/
 .env
 *.log
